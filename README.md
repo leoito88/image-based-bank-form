@@ -7,7 +7,7 @@ Se utilizó Bootstrap para realizar la página, con sus íconos y encolumnado. T
 https://leoito88.github.io/image-based-bank-form/
 
 ## Diseño en 1920px
-![image](https://github.com/leoito88/image-based-bank-form/assets/59623841/4968726f-c87e-4bcd-9bfb-90a748d17bbf)
+![image](https://github.com/leoito88/image-based-bank-form/assets/59623841/cbb8788c-9a5f-422e-9c6f-2cb1e828ac90)
 
 ## Diseño a replicar
 https://dribbble.com/shots/20116204-Form2
