@@ -1,4 +1,4 @@
-#Descripción del trabajo
+# Descripción del trabajo
 Se me proporcionó una imagen de un menú que debí replicar en HTML y CSS. El diseño final debía ser lo más fiel posible al original y debe adaptarse a diferentes tamaños de pantalla, garantizando una experiencia de usuario óptima en dispositivos móviles, tabletas y escritorios. Era crucial que el código HTML sea semántico y que el CSS esté bien estructurado y comentado. El diseño debía ser responsivo, utilizando técnicas modernas de CSS como flexbox, y aplicando media queries para ajustar el diseño a diferentes tamaños de pantalla.
 
 ## Link al trabajo
