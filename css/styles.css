@@ -110,28 +110,34 @@ h4{
     padding: 10px 0 0 10px;
 }
 
-.box--right__div{
+.div__radio{
+    margin: 0px 0 0 10px;
+    cursor: pointer;
+    width: 12px;
     display: flex;
-    align-items: center;
     justify-content: left;
+    align-items: center;
 }
 
-.box--right__div input{
-    background-color: #f1f1f1;
-    color: #4e4141;
-    border: none;
-    width: 40px;
-}
-
-.box--right__div label{
-    color:#4e4141;
+.div__radio label{
     font-weight: 600;
-    padding: 0;
-    margin: 0;
+}
+.input__radio{
+    margin-right: 15px;
+    appearance: none;
+    border: 12px solid #f1f1f1;
+    border-radius: 50%;
+    cursor: pointer;
 }
 
-input[type="radio"] {
-    accent-color: #4e4141;
+.input__radio:checked{
+    border: 12px solid #399c7e;
+    transition: 0.5s;
+}
+
+.input__radio:checked + label{
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
 }
 
 .box--right__buttons{
